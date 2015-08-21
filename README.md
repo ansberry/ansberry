@@ -5,7 +5,7 @@ Ansberry is a project attempting to build a modular smarthouse ecosystem through
 
 The project is in a very early state.
 
-The current plan for an Ansberry installation would be as follows:
+The current plan for an Ansberry estate would be as follows:
 - Headmaster (service manager)
 - Telephone (message broadcaster)
 - (no name) (network action abstraction)
