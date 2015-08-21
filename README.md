@@ -1,7 +1,7 @@
 # The Ansberry Project
 *Good morning sir, how would you like your tea?*
 
-Ansberry is a project attempting to build a modular smarthouse ecosystem through a collection of common conventions. These conventions can then be used to implement microservices and devices that can fit into the system perfectly.
+Ansberry is a project attempting to build a modular smarthouse ecosystem (an 'estate') through a collection of common conventions. These conventions can then be used to implement microservices and devices that can integrate into the system seamlessly.
 
 The project is in a very early state.
 
