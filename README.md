@@ -19,3 +19,4 @@ The current plan for an Ansberry installation would be as follows:
 	- Speakers
 	- Microphone interface
 	- Reminder system
+	- Coffee Pot, Oven, Microwave, Toaster
